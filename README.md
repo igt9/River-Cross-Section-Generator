@@ -47,11 +47,21 @@ Contains:
 - `h_distance` – horizontal distance from cross-section start (m)
 - `Elevation` – elevation extracted from DEM (m)
 
+Sample CSV:
+
+<img width="354" height="556" alt="image" src="https://github.com/user-attachments/assets/1713a28a-b1bb-4ea3-b2cf-dd640ae6b3ea" />
+
+
 ---
 
 ### PNG Files
 
 - Distance vs Elevation cross-section plots
+
+Sample PNG:
+
+<img width="640" height="480" alt="803" src="https://github.com/user-attachments/assets/1204c0d3-2d69-4ba3-8508-89fcbc038949" />
+
 
 ---
 
