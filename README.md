@@ -55,21 +55,13 @@ Contains:
 
 ---
 
-## Dependencies
-
-Install required Python libraries:
-
-```bash
-pip install numpy pandas geopandas rasterio matplotlib
-EPSG:32645 – UTM Zone 45N
 
 
-##Applications
+## Applications
 
-River cross-section analysis
+This workflow can be applied to:
 
-Flood modelling preprocessing (e.g., HEC-RAS)
-
-Channel morphology studies
-
-Urban flood risk assessment
+- River cross-section analysis  
+- Flood modelling preprocessing (e.g., HEC-RAS)  
+- Channel morphology and geomorphological studies  
+- Urban flood risk assessment  
